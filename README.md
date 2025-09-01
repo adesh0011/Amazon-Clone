@@ -14,7 +14,7 @@ Login/Signup page (UI design only).
 Built with fixed layouts (not responsive).
 
 🔹 Tech Stack:
-
 Frontend: HTML, CSS, JavaScript
 
 Version Control: Git & GitHub
+
